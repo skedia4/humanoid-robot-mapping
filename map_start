@@ -1,0 +1,4 @@
+#!/bin/bash
+
+source devel/setup.bash
+roslaunch ssl_slam mapping_complete_elev_with_rosbag.launch
