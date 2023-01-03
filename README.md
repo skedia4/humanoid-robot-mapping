@@ -63,6 +63,9 @@ apt-get update apt-get install ros-noetic-ddynamic-reconfigure
 sudo apt-get install ros-noetic-grid-map
 ```
 
+### 1.9. **Realsense-ROS**
+Follow [realsense-ros](https://github.com/IntelRealSense/realsense-ros/tree/ros1-legacy).
+
 ## 2. Installation Instructions
 ### 2.1 Create a new conda environment (optional but preferred)
 ```
